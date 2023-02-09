@@ -6,6 +6,8 @@ A Registered Report for how email requests for acedemic analysis code is handled
 
  * Email responses are lower for 'Code available upon reasonable request'
    than for those without the qualifier 'reasonable'
+ * Email responses are lower for earlier studies
+   and identical to [Teunis et al., 2015]
  * If code is emailed, it is unlikelier to have no licence, 
    compared to code that is published directly
  * If code is emailed, if it has a license that allows publication of the code,
@@ -47,3 +49,8 @@ is compared to those of humans.
 
  * [Term_ChatGPT](https://github.com/waxdred/Term_ChatGPT): 
    to use Chat-GPT from a terminal
+
+
+## References
+
+ * [Teunis et al., 2015] Teunis, Teun, Sjoerd PFT Nota, and Joseph H. Schwab. "Do corresponding authors take responsibility for their work? A covert survey." Clinical Orthopaedics and Related Research® 473 (2015): 729-735.
